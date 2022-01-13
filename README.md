@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![hanna0918's github stats](https://github-readme-stats.vercel.app/api?username=hanna0918&show_icons=true)
 
 <!--
 **hanna0918/hanna0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
