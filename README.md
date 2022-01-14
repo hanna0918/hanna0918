@@ -1,6 +1,7 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&section=header&text=hanna's%20github)
 
+<!-- status -->
 ![hanna0918's github stats](https://github-readme-stats.vercel.app/api?username=hanna0918&show_icons=true)
 
 <!--배지 만들기-->
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 <!-- username 아이디 넣기 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounghwaLeee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanna0918&layout=compact)
 
 <!--
 **hanna0918/hanna0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
