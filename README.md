@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&section=header&text=Hanna's%20github)
 
 <!-- status -->
-![hanna0918's github stats](https://github-readme-stats.vercel.app/api?username=hanna0918&show_icons=true)
+![Hanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanna0918&show_icons=true&theme=tokyonight)
 
 <!--배지 만들기-->
 ### Skills 
