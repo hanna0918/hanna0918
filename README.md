@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 <!-- username 아이디 넣기 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanna0918&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanna0918&theme=tokyonight)
 
 <!--
 **hanna0918/hanna0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
