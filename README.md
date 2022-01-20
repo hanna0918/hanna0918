@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&section=header&text=Hanna's%20github)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&section=header&text=Hanna's%20github&fontSize=40)
 
 <!-- status -->
 ![Hanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanna0918&show_icons=true&theme=tokyonight)
